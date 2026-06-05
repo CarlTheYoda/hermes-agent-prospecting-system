@@ -118,6 +118,6 @@ The system will:
 ## Author
 **Carl Saulsberry**
 Lead QA Engineer | AI Systems Builder
-[LinkedIn](https://www.linkedin.com/in/csaulsberry/) | [GitHub](https://github.com/carltheyoda)
+[LinkedIn](https://www.linkedin.com/in/csaulsberry/) | [GitHub](https://github.com/CarlTheYoda/)
 
 *This project was built to demonstrate the practical application of AI in automating complex business workflows, emphasizing quality assurance, data integrity, and human-in-the-loop safety mechanisms.*
